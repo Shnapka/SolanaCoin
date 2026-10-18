@@ -1,0 +1,16 @@
+{
+  "name": "PetCoin",
+  "symbol": "PETC",
+  "decimals": 6,
+  "network": "devnet",
+  "mint": "J2en1PhJiqbR8suv7KLmPEeU1Ebx1ujneEKPeJmXzjcA",
+  "mintAuthority": "DRx11A6yZPoJXvFmwbu9posT1RN5GmW4f6J25PJADHbv",
+  "treasuryAta": "FYyhEu9cnSv1xhDhDbzEX1BoHmx8VQCGRHVAHdpJ7jxd",
+  "recipients": [
+    "DRx11A6yZPoJXvFmwbu9posT1RN5GmW4f6J25PJADHbv",
+    "C12GQVyms9ZV1E8zex3UeLV4M857H81ZjmMhqx6v1LTL",
+    "B9nPh366gjJHM85wsjCxGUxzHrjoVP8HFtGp1zXojY48"
+  ],
+  "supply": 9950,
+  "explorer": "https://explorer.solana.com/address/J2en1PhJiqbR8suv7KLmPEeU1Ebx1ujneEKPeJmXzjcA?cluster=devnet"
+}

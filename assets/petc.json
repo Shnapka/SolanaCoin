@@ -1,0 +1,7 @@
+{
+  "name": "PetCoin",
+  "symbol": "PETC",
+  "description": "PetCoin (PETC) — внутриигровая валюта PetNFT: зарабатывается в мини-играх с питомцем и тратится в магазине.",
+  "image": "https://raw.githubusercontent.com/Shnapka/SolanaCoin/main/assets/petc.png",
+  "external_url": "https://petnft-production.up.railway.app"
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9945FF"/>
+      <stop offset="1" stop-color="#14F195"/>
+    </linearGradient>
+    <radialGradient id="face" cx="0.38" cy="0.32" r="0.8">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.55" stop-color="#ffc73d"/>
+      <stop offset="1" stop-color="#e09a12"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="url(#rim)"/>
+  <circle cx="256" cy="256" r="212" fill="url(#face)"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#b9770b" stroke-width="6" stroke-dasharray="4 14" opacity="0.6"/>
+  <g fill="#5a2d91">
+    <ellipse cx="256" cy="300" rx="92" ry="68"/>
+    <ellipse cx="168" cy="214" rx="32" ry="42" transform="rotate(-20 168 214)"/>
+    <ellipse cx="224" cy="164" rx="32" ry="44" transform="rotate(-6 224 164)"/>
+    <ellipse cx="288" cy="164" rx="32" ry="44" transform="rotate(6 288 164)"/>
+    <ellipse cx="344" cy="214" rx="32" ry="42" transform="rotate(20 344 214)"/>
+  </g>
+  <text x="256" y="316" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="44" fill="#ffd25e">PETC</text>
+</svg>
